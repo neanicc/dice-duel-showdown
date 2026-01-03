@@ -121,10 +121,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
-
-Developed as a Grade 12 Computer Science culminating project, demonstrating proficiency in:
-- Object-Oriented Programming
-- Game Development Logic
-- Multi-language Implementation
-- Clean Code Practices
+Made By Ali Imran.
