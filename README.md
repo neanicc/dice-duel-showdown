@@ -6,7 +6,7 @@ A strategic turn-based dice game implemented in both **Java** and **Python**, sh
 
 ## 📖 About
 
-**Dice Duel Showdown** is a 1v1 dice game where you compete against a computer opponent. Roll two dice each turn and try to reach exactly **50 points** within **10 turns**—but be careful not to bust!
+**Dice Duel Showdown** is a 1v1 dice game where you compete against a computer opponent. Roll two dice each turn and try to reach exactly **50 points** within **10 turns**, but be careful not to bust!
 
 The game features strategic skip mechanics, penalty rules for doubles, and end-game statistics tracking, making every match unique and engaging.
 
